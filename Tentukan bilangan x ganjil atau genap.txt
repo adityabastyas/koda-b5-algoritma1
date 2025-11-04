@@ -1,0 +1,9 @@
+Minitask Algoritma 3
+
+Terdapat variable x, buat algoritma untuk menentukan apakah x bilangan ganjil atau genap!
+
+1. Mulai
+2. Buat variable berisi angka x
+3. jika bilangan x bisa di bagi 2 maka x adalah bilangan genap
+4. jika bukan maka bilangan x adalah ganjil
+5. Selesai
