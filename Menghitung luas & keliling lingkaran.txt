@@ -1,0 +1,19 @@
+Minitask Algoritma 2
+
+soal (digambar)
+
+Menghitung luas & keliling lingkaran
+
+Luas
+1. Mulai
+2. Rumus Luas lingkaran yaitu pi di kali jari-jari di kali jari-jari
+3. Tentukan nilai jari jarinya, yaitu setengah lingkaran dari panjang lingkaran
+4. Masukan nilai jari-jari kedalam rumus dan kerjakan
+5. Selesai
+
+Keliling
+1. Mulai
+2. Rumus Keliling lingkaran yaitu 2 dikali pi di kali jari-jari
+3. Tentukan nilai jari jarinya, yaitu setengah lingkaran dari panjang lingkaran
+4. Masukan nilai jari-jari kedalam rumus dan kerjakan
+5. Selesai
