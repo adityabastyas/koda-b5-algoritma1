@@ -1,0 +1,12 @@
+Minitask Algoritma 1
+
+Memindahkan air didalam gelas
+
+
+1. siapkan 1 gelas kosong berukuran sama bernama gelas C
+2. pindahkan gelas A berisi teh kedalam gelas C yang kosong tersebut
+3. cuci gelas A dan keringkan
+4. pindahkan isi dari gelas B ke dalam gelas yang yang sudah kosong
+5. cuci gelas B dan keringkan
+6. pindahkan isi dari gelas C kedalam gelas B yang sudah kosong
+7. gelas A dan B sudah tertukar isinya
