@@ -7,3 +7,11 @@ Terdapat variable x, buat algoritma untuk menentukan apakah x bilangan ganjil at
 3. jika bilangan x bisa di bagi 2 maka x adalah bilangan genap
 4. jika bukan maka bilangan x adalah ganjil
 5. Selesai
+
+contoh jika nilai x = 2
+1. Mulai
+2. variable berisi  x = 2
+3. jika bilangan x bisa di bagi 2 maka x adalah bilangan genap
+4. jika bukan maka bilangan x adalah ganjil
+5. karna bisa dibagi 2 maka x = bilangan genap
+6. Selesai
